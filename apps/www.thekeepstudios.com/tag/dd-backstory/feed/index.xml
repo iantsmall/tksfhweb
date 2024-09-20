@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>D&amp;D Backstory Archives - The Keep Studios</title>
+	<atom:link href="/tag/dd-backstory/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/dd-backstory/</link>
+	<description>Welcome to the Keep</description>
+	<lastBuildDate>Tue, 09 Jan 2024 03:35:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>5e Background: The Legendary Survivor</title>
+		<link>/2019/02/19/5e-background-the-legendary-survivor/</link>
+		
+		<dc:creator><![CDATA[ian.small]]></dc:creator>
+		<pubDate>Tue, 19 Feb 2019 17:00:54 +0000</pubDate>
+				<category><![CDATA[D&D]]></category>
+		<category><![CDATA[Dungeon Crawl Classics]]></category>
+		<category><![CDATA[TTRPG]]></category>
+		<category><![CDATA[D&D Backstory]]></category>
+		<category><![CDATA[DCC]]></category>
+		<category><![CDATA[Dungeons and Dragons]]></category>
+		<category><![CDATA[Goodman Games]]></category>
+		<guid isPermaLink="false">/?p=1432</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+A Uniquely Earned Backstory For 5e A Legendary Survivor is a background like none-other in 5e. It marks the character as one who has had the call to adventure thrust upon them with no training, and survived to tell the&#8230;
+</div>
+<p>The post <a href="/2019/02/19/5e-background-the-legendary-survivor/">5e Background: The Legendary Survivor</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading has-text-align-center">A Uniquely Earned Backstory For 5e</h2>
+
+
+
+<style>
+hr.is-split-arrows {
+ min-height: 10px;
+ background-image: url(/static/content/uploads/2019/02/divide-39653-1.svg);
+}
+/*
+table.horizontal-separator th, table.horizontal-separator td { border-bottom: 1px solid #ddd; }
+.wp-block-table.is-style-stripes thead tr:nth-child(odd) { background-color: #2d7c42; }
+.wp-block-table.is-style-stripes tbody tr:nth-child(even) { background-color: #041852; }
+.wp-block-table.is-style-stripes tbody tr:nth-child(odd) { background-color: initial; }
+.tyranny-media &gt; figure { max-height: 50vh; }
+.clearfix { overflow: auto; }
+.google-chart { float: right; padding:10px; } 
+*/
+p.has-drop-cap:not(:focus)::first-letter {
+
+  float: left;
+  position: relative;
+  top: -0.30em;
+  margin-top: 0px;
+  margin-left: 15px;
+  margin-right: 5px;
+  margin-bottom: 0em;
+  font-size: 60px;
+  line-height: normal;
+  font-weight: bold;
+  color: lightgrey;
+  background-color: #041852;
+  padding: 17px 18px 20px  20px;
+  border: 3px groove white;
+
+}
+</style>
+
+
+
+<p class="has-drop-cap has-dark-gray-color has-white-background-color has-text-color has-background">A Legendary Survivor is a background like none-other in 5e. It marks the character as one who has had the call to adventure thrust upon them with no training, and survived to tell the tale. A desperate commoner forged in the heat of danger, they have come out more than they were before. Their thirst for treasure and glory discovered, they leave their old lives behind and seek their fortune on their own terms.</p>
+
+
+
+<span id="more-1432"></span>
+
+
+
+<p>For a breakdown on the merits and challenges of using this background and character generation method read <a href="/?p=1329">Earning Your Background</a>.</p>
+
+
+
+<p class="has-medium-font-size">Unlike other backgrounds Legendary Survivor is a background crafted for each character. Each player EARNS this background by generating their character through the following method.</p>
+
+
+
+<div class="wp-block-ugb-container ugb-container ugb-4a2843d ugb-container--v2 ugb-container--design-basic ugb-main-block"><style>.ugb-4a2843d-wrapper.ugb-container__wrapper{border-radius:12px !important;background-color:#313131 !important;background-image:url(http://wp.thekeepstudios.com/static/content/uploads/2019/02/armor-1297380-1.svg)}.ugb-4a2843d-wrapper.ugb-container__wrapper:before{background-color:#313131 !important;opacity:0.5}.ugb-4a2843d h1,.ugb-4a2843d h2,.ugb-4a2843d h3,.ugb-4a2843d h4,.ugb-4a2843d h5,.ugb-4a2843d h6{color:#eeeeee}.ugb-4a2843d p,.ugb-4a2843d li,.ugb-4a2843d label,.ugb-4a2843d table{color:#eeeeee}.ugb-4a2843d a:hover,.ugb-4a2843d a:hover:visited{color:#eeeeee}.ugb-4a2843d-content-wrapper > h1,.ugb-4a2843d-content-wrapper > h2,.ugb-4a2843d-content-wrapper > h3,.ugb-4a2843d-content-wrapper > h4,.ugb-4a2843d-content-wrapper > h5,.ugb-4a2843d-content-wrapper > h6{color:#eeeeee}.ugb-4a2843d-content-wrapper > p,.ugb-4a2843d-content-wrapper > ol li,.ugb-4a2843d-content-wrapper > ul li{color:#eeeeee}@media screen and (min-width:768px){.ugb-4a2843d-content-wrapper.ugb-container__content-wrapper{width:100% !important}}.ugb-4a2843d a,.ugb-4a2843d a:visited,.ugb-4a2843d a:focus{color:#eeeeee}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-container__wrapper ugb-4a2843d-wrapper ugb--shadow-3 ugb--has-background-overlay"><div class="ugb-container__side"><div class="ugb-container__content-wrapper ugb-4a2843d-content-wrapper">
+<div class="wp-block-uagb-info-box uagb-block-921e603a-9df5-4386-89a2-2bb2831a15a1 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox__outer-wrap" id="uagb-infobox-921e603a-9df5-4386-89a2-2bb2831a15a1"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M568.1 196.3l-22.62-22.62c-4.533-4.533-10.56-7.029-16.97-7.029s-12.44 2.496-16.97 7.029l-5.654 5.656l-20.12-20.12c4.596-23.46-2.652-47.9-19.47-64.73l-45.25-45.25C390.2 17.47 347.1 0 303.1 0C258.2 0 216 17.47 184.3 49.21L176.5 57.05L272.5 105.1v13.81c0 18.95 7.688 37.5 21.09 50.91l49.16 49.14c13.44 13.45 31.39 20.86 50.54 20.86c4.758 0 9.512-.4648 14.18-1.387l20.12 20.12l-5.654 5.654c-9.357 9.357-9.357 24.58-.002 33.94l22.62 22.62c4.535 4.533 10.56 7.031 16.97 7.031s12.44-2.498 16.97-7.031l90.53-90.5C578.3 220.8 578.3 205.6 568.1 196.3zM270.9 192.4c-3.846-3.846-7.197-8.113-10.37-12.49l-239.5 209.2c-28.12 28.12-28.16 73.72-.0371 101.8C35.12 505 53.56 512 71.1 512s36.84-7.031 50.91-21.09l209.1-239.4c-4.141-3.061-8.184-6.289-11.89-9.996L270.9 192.4z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title"><a href="/2019/02/05/starting-out-with-dcc/">Get started&nbsp;with&nbsp;DCC</a></h3></div></div></div>
+
+
+
+<ol class="wp-block-list">
+<li><a href="/2019/02/05/starting-out-with-dcc/">Roll characters EXACTLY AS DESCRIBED in the quickstart rules.</a></li>
+
+
+
+<li>If the character was a human roll a d12 to determine if they were a &#8220;rare&#8221; race.</li>
+
+
+
+<li>Play any 0 level adventure you want (Or write your own! We did)</li>
+</ol>
+
+
+
+<h4 class="wp-block-heading has-text-align-center">Rare Races Table</h4>
+
+
+
+<figure class="wp-block-table is-style-regular"><table><thead><tr><td><strong><em>D12</em></strong></td><td><strong><em>Race</em></strong></td></tr></thead><tbody><tr><td>1-7</td><td>Human</td></tr><tr><td>8</td><td>Half-elf</td></tr><tr><td>9</td><td>Dragonborn</td></tr><tr><td>10</td><td>Half-orc</td></tr><tr><td>11</td><td>Tiefling</td></tr><tr><td>12</td><td>Gnome</td></tr></tbody></table></figure>
+</div></div></div></div></div></div>
+
+
+
+<div class="wp-block-ugb-container ugb-container ugb-5dd6e7b ugb-container--v2 ugb-container--design-basic ugb-main-block"><style>.ugb-5dd6e7b-wrapper.ugb-container__wrapper{border-radius:12px !important;background-color:#313131 !important;background-image:url(http://wp.thekeepstudios.com/static/content/uploads/2019/02/viking-2669986-1.svg)}.ugb-5dd6e7b-wrapper.ugb-container__wrapper:before{background-color:#313131 !important;opacity:0.5}.ugb-5dd6e7b h1,.ugb-5dd6e7b h2,.ugb-5dd6e7b h3,.ugb-5dd6e7b h4,.ugb-5dd6e7b h5,.ugb-5dd6e7b h6{color:#eeeeee}.ugb-5dd6e7b p,.ugb-5dd6e7b li,.ugb-5dd6e7b label,.ugb-5dd6e7b table{color:#eeeeee}.ugb-5dd6e7b a:hover,.ugb-5dd6e7b a:hover:visited{color:#eeeeee}.ugb-5dd6e7b-content-wrapper > h1,.ugb-5dd6e7b-content-wrapper > h2,.ugb-5dd6e7b-content-wrapper > h3,.ugb-5dd6e7b-content-wrapper > h4,.ugb-5dd6e7b-content-wrapper > h5,.ugb-5dd6e7b-content-wrapper > h6{color:#eeeeee}.ugb-5dd6e7b-content-wrapper > p,.ugb-5dd6e7b-content-wrapper > ol li,.ugb-5dd6e7b-content-wrapper > ul li{color:#eeeeee}@media screen and (min-width:768px){.ugb-5dd6e7b-content-wrapper.ugb-container__content-wrapper{width:100% !important}}.ugb-5dd6e7b a,.ugb-5dd6e7b a:visited,.ugb-5dd6e7b a:focus{color:#eeeeee}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-container__wrapper ugb-5dd6e7b-wrapper ugb--shadow-3 ugb--has-background-overlay"><div class="ugb-container__side"><div class="ugb-container__content-wrapper ugb-5dd6e7b-content-wrapper">
+<div class="wp-block-uagb-info-box uagb-block-fe29e8a5-eecf-49bb-afe3-a808b38dd0b6 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox__outer-wrap" id="uagb-infobox-fe29e8a5-eecf-49bb-afe3-a808b38dd0b6"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M576 136c0 22.09-17.91 40-40 40c-.248 0-.4551-.1266-.7031-.1305l-50.52 277.9C482 468.9 468.8 480 453.3 480H122.7c-15.46 0-28.72-11.06-31.48-26.27L40.71 175.9C40.46 175.9 40.25 176 39.1 176c-22.09 0-40-17.91-40-40S17.91 96 39.1 96s40 17.91 40 40c0 8.998-3.521 16.89-8.537 23.57l89.63 71.7c15.91 12.73 39.5 7.544 48.61-10.68l57.6-115.2C255.1 98.34 247.1 86.34 247.1 72C247.1 49.91 265.9 32 288 32s39.1 17.91 39.1 40c0 14.34-7.963 26.34-19.3 33.4l57.6 115.2c9.111 18.22 32.71 23.4 48.61 10.68l89.63-71.7C499.5 152.9 496 144.1 496 136C496 113.9 513.9 96 536 96S576 113.9 576 136z"></path></svg></div><div class="uagb-ifb-title-wrap"><h3 class="uagb-ifb-title">Become a Legend </h3></div></div></div>
+
+
+
+<ol class="wp-block-list">
+<li>Pick your favorite <strong>surviving&nbsp;</strong>character.</li>
+
+
+
+<li>Write down <em>Legendary </em><strong><em>PROFESSION/OCCUPATION</em></strong><em> Survivor of </em><strong><em>0 Level Adventure</em></strong> as your background.</li>
+
+
+
+<li>Gain proficiency in your profession weapon, tools and anything related to your profession.</li>
+
+
+
+<li>Pick adventuring class!</li>
+
+
+
+<li>Add max result possible on class hit die to current hit dice.</li>
+
+
+
+<li>Convert &#8220;Personality&#8221; into charisma or wisdom.</li>
+
+
+
+<li>Duplicate third highest ability score, and put into missing ability score(One not chosen in step 8).</li>
+
+
+
+<li>Spend 1 point of luck to increase another <br>ability score by one to a maximum of <em>18 + racial modifier</em> for that <br>ability score. <br>Example: A Dragonborn has a max strength of +2 for total MAX of 20.<strong> <br>DO NOT add racial adjustments into ability scores, racial modifiers only increase ability score maximums at this stage under this system.</strong></li>
+
+
+
+<li>Add all the ability scores, and subtract 66. If this number is positive add this to your luck and repeat the previous step.</li>
+
+
+
+<li>Mark down any class abilities you got at level one as per normal 5e Character Creation</li>
+</ol>
+</div></div></div></div></div></div>
+
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content">
+<p class="has-large-font-size"></p>
+</div><figure class="wp-block-media-text__media"><img decoding="async" src="http://wp.thekeepstudios.com/static/content/uploads/2019/02/viking-2669986.svg" alt="" class="wp-image-1394 size-full"/></figure></div>
+<p>The post <a href="/2019/02/19/5e-background-the-legendary-survivor/">5e Background: The Legendary Survivor</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Staff Archive - The Keep Studios</title>
+	<atom:link href="/people/feed/" rel="self" type="application/rss+xml" />
+	<link>/people/</link>
+	<description>Welcome to the Keep</description>
+	<lastBuildDate>Tue, 14 Jan 2020 00:28:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Ian T Small</title>
+		<link>/person/iantsmall/</link>
+		
+		<dc:creator><![CDATA[tks_admin]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2019 13:07:45 +0000</pubDate>
+				<guid isPermaLink="false">http://wp.thekeepstudios.com/?post_type=wm_staff&#038;p=7334</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+CEO/Partner
+</div>
+<p>The post <a href="/person/iantsmall/">Ian T Small</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/person/iantsmall/">Ian T Small</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Francisco Duarte</title>
+		<link>/person/franciscoduarte/</link>
+		
+		<dc:creator><![CDATA[tks_admin]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2019 13:30:20 +0000</pubDate>
+				<guid isPermaLink="false">https://wp.thekeepstudios.com/?post_type=wm_staff&#038;p=7338</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Author
+</div>
+<p>The post <a href="/person/franciscoduarte/">Francisco Duarte</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/person/franciscoduarte/">Francisco Duarte</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>CJ Leffel</title>
+		<link>/person/cjleffel/</link>
+		
+		<dc:creator><![CDATA[tks_admin]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2019 13:29:38 +0000</pubDate>
+				<guid isPermaLink="false">https://wp.thekeepstudios.com/?post_type=wm_staff&#038;p=7337</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Partner
+</div>
+<p>The post <a href="/person/cjleffel/">CJ Leffel</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/person/cjleffel/">CJ Leffel</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Andrew Hay</title>
+		<link>/person/andrewhay/</link>
+		
+		<dc:creator><![CDATA[tks_admin]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2019 13:29:13 +0000</pubDate>
+				<guid isPermaLink="false">https://wp.thekeepstudios.com/?post_type=wm_staff&#038;p=7336</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Layout Editor
+</div>
+<p>The post <a href="/person/andrewhay/">Andrew Hay</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/person/andrewhay/">Andrew Hay</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Jessica Goldman</title>
+		<link>/person/jessicagoldman/</link>
+		
+		<dc:creator><![CDATA[tks_admin]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2019 13:26:42 +0000</pubDate>
+				<guid isPermaLink="false">https://wp.thekeepstudios.com/?post_type=wm_staff&#038;p=7335</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+Editor
+</div>
+<p>The post <a href="/person/jessicagoldman/">Jessica Goldman</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/person/jessicagoldman/">Jessica Goldman</a> appeared first on <a href="/">The Keep Studios</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
