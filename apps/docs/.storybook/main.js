@@ -15,7 +15,11 @@ const config = {
     options: {},
   },
 
-  core: {},
+  core: {
+    // Disables storybook's telemetry, read more at https://storybook.js.org/telemetry 
+    // (Privacy matters, and security is easier w/o unexpected network traffic)
+    disableTelemetry: true,
+  },
 
   async viteFinal(config, { configType }) {
     // customize the Vite config here
