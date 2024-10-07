@@ -19,7 +19,7 @@ As well as a few others tools preconfigured:
 - [Changesets](https://github.com/changesets/changesets) for managing versioning and changelogs
 - [GitHub Actions](https://github.com/changesets/action) for fully automated package publishing
 
-### Using this example
+### Using this repo
 
 Run the following command:
 
@@ -45,11 +45,14 @@ Using Turborepo simplifies managing your design system monorepo, as you can have
 
 This Turborepo includes the following packages and applications:
 
+- `donations`: a [Next.js](https://nextjs.org/) app
+- `web`: a [Gatsby.js](https://www.gatsbyjs.com/docs) app
+- `@thekeepstudios/ui`: a stub React component library shared by both `web`, `donations` and `docs` applications
 - `apps/docs`: Component documentation site with Storybook
 - `packages/ui`: Core React components
 - `packages/utils`: Shared React utilities
 - `packages/typescript-config`: Shared `tsconfig.json`s used throughout the Turborepo
-- `packages/eslint-config`: ESLint preset
+- `packages/eslint-config`: ESLint preset(includes `eslint-config-next` and `eslint-config-prettier`)
 
 Each package and app is 100% [TypeScript](https://www.typescriptlang.org/). Workspaces enables us to "hoist" dependencies that are shared between packages to the root `package.json`. This means smaller `node_modules` folders and a better local dev experience. To install a dependency for the entire monorepo, use the `-w` workspaces flag with `pnpm add`.
 
@@ -194,3 +197,14 @@ To publish packages to a private npm organization scope, **remove** the followin
 -  "access": "public"
 - },
 ```
+
+### Useful Links
+
+Learn more about the power of Turborepo:
+
+- [Tasks](https://turbo.build/repo/docs/core-concepts/monorepos/running-tasks)
+- [Caching](https://turbo.build/repo/docs/core-concepts/caching)
+- [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching)
+- [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
+- [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
+- [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
