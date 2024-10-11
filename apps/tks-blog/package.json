@@ -1,0 +1,48 @@
+{
+  "name": "tks-blog",
+  "private": true,
+  "description": "The TKS blog powered by Gatsby and Markdown",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "gatsby develop -p 8001",
+    "build": "gatsby build",
+    "start": "gatsby develop -p 8001",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src/ --max-warnings 0",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@fontsource-variable/montserrat": "^5.1.0",
+    "@fontsource/merriweather": "^5.1.0",
+    "gatsby": "^5.13.7",
+    "gatsby-plugin-feed": "^5.13.1",
+    "gatsby-plugin-image": "^3.13.1",
+    "gatsby-plugin-manifest": "^5.13.1",
+    "gatsby-plugin-sharp": "^5.13.1",
+    "gatsby-remark-images": "^7.13.2",
+    "gatsby-remark-prismjs": "^7.13.2",
+    "gatsby-remark-responsive-iframe": "^6.13.2",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-remark": "^6.13.1",
+    "gatsby-transformer-sharp": "^5.13.1",
+    "prismjs": "^1.29.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@thekeepstudios/ui": "workspace:*"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "@repo/eslint-config": "workspace:*",
+    "@repo/typescript-config": "workspace:*",
+    "@types/node": "^20.11.24",
+    "@types/react": "^18.2.61",
+    "@types/react-dom": "^18.2.19",
+    "eslint": "^8.57.0",
+    "gatsby-plugin-compile-es6-packages": "^2.1.1",
+    "typescript": "^5.3.3"
+  }
+}
