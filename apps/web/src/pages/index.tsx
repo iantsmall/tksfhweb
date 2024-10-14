@@ -13,7 +13,7 @@ function IndexPage(_: PageProps): JSX.Element {
           setIsMsgShown(true);
         }}
       >
-        Say Hello!
+        Say Hello to Gatsby!
       </Button>
       <div hidden={!isMsgShown}>
         <h2>Hi!</h2>

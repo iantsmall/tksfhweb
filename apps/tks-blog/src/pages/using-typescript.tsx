@@ -1,13 +1,13 @@
 // If you don't want to use TypeScript you can delete this file!
 import * as React from "react"
-import { PageProps, Link, graphql, HeadFC } from "gatsby"
-
+import type { PageProps, HeadFC } from "gatsby";
+import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-type DataProps = {
+interface DataProps {
   site: {
-    buildTime: string,
+    buildTime: string
     siteMetadata: {
       title?: string
     }
@@ -19,7 +19,7 @@ const UsingTypescript: React.FC<PageProps<DataProps>> = ({
   path,
   location,
 }) => (
-  <Layout title="Using TypeScript" location={location}>
+  <Layout location={location} title="Using TypeScript">
     <h1>Gatsby supports TypeScript by default!</h1>
     <p>
       This means that you can create and write <code>.ts/.tsx</code> files for

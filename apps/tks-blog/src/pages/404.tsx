@@ -1,20 +1,26 @@
 import * as React from "react"
-import { graphql, PageProps } from "gatsby"
-
+import type { PageProps } from "gatsby";
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-type DataProps = {
+interface DataProps {
   site: {
-    buildTime: string,
+    buildTime: string
     siteMetadata: {
       title?: string
     }
   }
 }
 
-const NotFoundPage:React.FC<PageProps<DataProps>> = ({ data:{site:{siteMetadata:{title}}}, location }) => {
-  
+const NotFoundPage: React.FC<PageProps<DataProps>> = ({
+  data: {
+    site: {
+      siteMetadata: { title },
+    },
+  },
+  location,
+}) => {
   return (
     <Layout location={location} title={title}>
       <h1>404: Not Found</h1>
@@ -23,7 +29,9 @@ const NotFoundPage:React.FC<PageProps<DataProps>> = ({ data:{site:{siteMetadata:
   )
 }
 
-export const Head = () => <Seo title="404: Not Found" />
+export function Head() {
+  return <Seo title="404: Not Found" />
+}
 
 export default NotFoundPage
 

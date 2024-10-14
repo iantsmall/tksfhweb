@@ -1,14 +1,13 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogPostTemplate = ({
+function BlogPostTemplate({
   data: { previous, next, site, markdownRemark: post },
   location,
-}) => {
+}) {
   const siteTitle = site.siteMetadata?.title || `Title`
 
   return (
@@ -42,18 +41,14 @@ const BlogPostTemplate = ({
           }}
         >
           <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
+            {previous ? <Link rel="prev" to={previous.fields.slug}>
                 ← {previous.frontmatter.title}
-              </Link>
-            )}
+              </Link> : null}
           </li>
           <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
+            {next ? <Link rel="next" to={next.fields.slug}>
                 {next.frontmatter.title} →
-              </Link>
-            )}
+              </Link> : null}
           </li>
         </ul>
       </nav>
@@ -61,11 +56,11 @@ const BlogPostTemplate = ({
   )
 }
 
-export const Head = ({ data: { markdownRemark: post } }) => {
+export function Head({ data: { markdownRemark: post } }) {
   return (
     <Seo
-      title={post.frontmatter.title}
       description={post.frontmatter.description || post.excerpt}
+      title={post.frontmatter.title}
     />
   )
 }
