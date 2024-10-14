@@ -4,9 +4,9 @@
   "description": "Ian T Small's blog powered by Gatsby and Markdown",
   "version": "0.1.0",
   "scripts": {
-    "dev": "gatsby develop -p 8001",
+    "dev": "gatsby develop -p 8002",
     "build": "gatsby build",
-    "start": "gatsby develop -p 8001",
+    "start": "gatsby develop -p 8002",
     "typecheck": "tsc --noEmit",
     "lint": "eslint src/ --max-warnings 0",
     "develop": "gatsby develop",

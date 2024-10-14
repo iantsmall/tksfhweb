@@ -9,13 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `TKS Blog`,
+    title: `Ian T. Small's Blog`,
     author: {
       name: `Ian T. Small`,
       summary: ``,
     },
-    description: `TKS blog power by Gatsby and Markdown.`,
-    siteUrl: `https://www.thekeepstudios.com/`,
+    description: `Ian T. Small's blog power by Gatsby and Markdown.`,
+    siteUrl: `https://www.iantsmall.com/`,
     social: {
       twitter: ``,
     },
